@@ -45,6 +45,9 @@ O principal objetivo foi aprimorar minhas habilidades em animações CSS, aplica
     ```
 5. Abra um Pull Request.
 
+![site](https://github.com/user-attachments/assets/1dd9c58c-05e2-4cb5-b3ea-a089579bfad1)
+
+   
  📜 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
